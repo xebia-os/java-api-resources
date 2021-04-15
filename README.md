@@ -28,57 +28,51 @@ This list assumes a familiarity with basic programming constructs. It is opinion
 
 ### Topics
 
-###### Basic data types and their sizes
+##### Basic data types and their sizes
 
-- int, float, long, double, char
-- arrays
+- [ ] int, float, long, double, char
+- [ ] arrays
 
 :newspaper: I Finally Understand Static vs. Dynamic Typing and You Will Too! - [Link](https://hackernoon.com/i-finally-understand-static-vs-dynamic-typing-and-you-will-too-ad0c2bd0acc7)
 
+##### Flow control 
 
+- [ ] if-else* conditionals
+- [ ] *for* loops
+- [ ] *while* loops (optional)
+- [ ] methods
+- [ ] exception handling
 
-###### Flow control 
-
-- if-else* conditionals
-- *for* loops
-- *while* loops (optional)
-- methods
-- exception handling
-
-
-
-###### OOP building blocks
+##### OOP building blocks
 
 :video_camera:  Computer programming: What is object-oriented language? - [Link](https://www.youtube.com/watch?v=SS-9y0H3Si8)
 
-- Classes
-  - access modifiers
-  - constructors
-  - Nested classes are useful but can be deferred until needed
+- [ ] Classes
+- [ ] constructors
+- [ ] access modifiers
+- [ ] Interfaces and Abstract class
+- [ ] Inheritance
+- [ ] Polymorphism
 
-- Interfaces and Abstract class
-
-- Inheritance
+- [ ] Nested classes are useful but can be deferred until needed
 
 :newspaper: How and why to override the equals method in Java - [Link](http://users.csc.calpoly.edu/~gfisher/classes/102/info/howToOverrideEquals.html)
 
-- Polymorphism
+- [ ] Wrapper classes and auto-boxing/unboxing
 
-- Wrapper classes and auto-boxing/unboxing
-
-
-
-###### Java Collections classes (important)
+##### Java Collections classes (important)
 
 :newspaper: Big O Cheatsheet - [Link](https://www.bigocheatsheet.com/)
 
-- Oracle Java Tutorial Trail: Collections - [Link](https://docs.oracle.com/javase/tutorial/collections/index.html)
-- List, Set, Map
-- Arrays utility class
-- Collections utility class
-- Iterators
-- Comparable and Comparator
-- Get comfortable reading javadoc for the major classes: **Outline of the Collections Framework** - [Link](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/doc-files/coll-reference.html)
+- [ ] List, Set, Map
+- [ ] Arrays utility class
+- [ ] Collections utility class
+- [ ] Iterators
+- [ ] Comparable and Comparator
+
+Oracle Java Tutorial Trail: Collections - [Link](https://docs.oracle.com/javase/tutorial/collections/index.html)
+
+Outline of the Collections Framework - [Link](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/doc-files/coll-reference.html) Get comfortable reading javadoc for the major classes
 
 ## Intermediate
 
@@ -90,7 +84,7 @@ This list assumes a familiarity with basic programming constructs. It is opinion
 
 ### Topics
 
-###### Generics
+##### Generics
 
 :newspaper: Java Generics FAQs by Angelika Langer - [Link](http://www.angelikalanger.com/GenericsFAQ/JavaGenericsFAQ.html)
 
@@ -98,7 +92,7 @@ This list assumes a familiarity with basic programming constructs. It is opinion
 
 :video_camera: Java Generics: Past, Present and Future by Richard Warburton/Raoul-Gabriel Urma - [Link](https://www.youtube.com/watch?v=LEAoMMEIUXk)
 
-###### Lambdas and Streams
+##### Lambdas and Streams
 
 :newspaper: Java 8: The Missing Tutorial - [Link](https://github.com/shekhargulati/java8-the-missing-tutorial)
 
