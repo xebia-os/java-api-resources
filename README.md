@@ -26,6 +26,11 @@ This list assumes a familiarity with basic programming constructs. It is opinion
 
 :book: Head First Java - [Link](https://www.amazon.in/Head-First-Java-Brain-Friendly-Guide/dp/8173666024) Great if outdated, but still a good primer
 
+### Practical concerns
+
+- [ ] Setup your IDE - Eclipse or IntelliJ
+- [ ] Install JDK 11 (preferred LTS version) - either from Oracle or OpenJDK or others
+
 ### Topics
 
 ##### Basic data types and their sizes
@@ -74,6 +79,20 @@ Oracle Java Tutorial Trail: Collections - [Link](https://docs.oracle.com/javase/
 
 Outline of the Collections Framework - [Link](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/doc-files/coll-reference.html) Get comfortable reading javadoc for the major classes
 
+#### Test driven development (essential)
+
+:newspaper: Extreme programming - [Link](https://en.wikipedia.org/wiki/Extreme_programming)
+
+:newspaper: 5 step method to make test-driven development and unit testing easy - [Link](https://codeutopia.net/blog/2016/10/10/5-step-method-to-make-test-driven-development-and-unit-testing-easy/)
+
+:newspaper: Introduction to Test Driven Development (TDD) - [Link](http://agiledata.org/essays/tdd.html)
+
+:newspaper: Unit Tests Are FIRST - [Link](https://pragprog.com/magazines/2012-01/unit-tests-are-first)
+
+:video_camera: The Clean Code Talks -- Unit Testing - [Link](https://www.youtube.com/watch?v=wEhu57pih5w)
+
+:video_camera: Test-driven development: Write better code in less time - [Link](https://www.youtube.com/watch?v=HhwElTL-mdI)
+
 ## Intermediate
 
 ### Books
@@ -100,6 +119,12 @@ Outline of the Collections Framework - [Link](https://docs.oracle.com/en/java/ja
 
 :video_camera: The Power and Practicality of Immutability - [Link](https://www.youtube.com/watch?v=FQERMVABRrQ)
 
+:video_camera: Refactoring to Java 8 - [Link](https://www.youtube.com/watch?v=NcetKbGayZY)
+
+:video_camera: Twelve Ways to Make Code Suck Less - [Link](https://www.youtube.com/watch?v=nVZE53IYi4w)
+
+:video_camera: Optional - The Mother of All Bikesheds - [Link](https://www.youtube.com/watch?v=Ej0sss6cq14)
+
 ### Practical Development concerns
 
 :newspaper:  Git: The Missing Tutorial - [Link](https://github.com/shekhargulati/git-the-missing-tutorial/blob/master/README.md)
@@ -111,6 +136,8 @@ Outline of the Collections Framework - [Link](https://docs.oracle.com/en/java/ja
 :newspaper: Package by type, -by layer, -by feature vs “Package by layered feature” - [Link](https://proandroiddev.com/package-by-type-by-layer-by-feature-vs-package-by-layered-feature-e59921a4dffa)
 
 :video_camera:  42 IntelliJ IDEA Tips and Tricks - [Link](https://www.youtube.com/watch?v=eq3KiAH4IBI)
+
+:video_camera: Be more productive with IntelliJ Idea - [Link](https://www.youtube.com/watch?v=CmPJzEqFS4s)
 
 :video_camera: ​Code Refactoring - [Link](https://www.youtube.com/playlist?list=PLGLfVvz_LVvSuz6NuHAzpM52qKM6bPlCV)
 
