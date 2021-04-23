@@ -56,4 +56,5 @@ Your job is to write a program that prints cash on hand of each customer and qua
 Assuming that we have an elevator that goes from floor to 0 to floor 9 and elevator is available on the 0th floor think about all the classes and interactions between them
 
 Use case 1: Requesting an elevator car
+
 Use case 2: Making a request to 4th floor
