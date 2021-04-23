@@ -93,6 +93,11 @@ Outline of the Collections Framework - [Link](https://docs.oracle.com/en/java/ja
 
 :video_camera: Test-driven development: Write better code in less time - [Link](https://www.youtube.com/watch?v=HhwElTL-mdI)
 
+#### Programming problems
+
+- Basic problems - [Here](./problems/01-basic.md)
+- Basic design problems - [Link](./problems/02-OOP.md)
+
 ## Intermediate
 
 ### Books
@@ -101,11 +106,13 @@ Outline of the Collections Framework - [Link](https://docs.oracle.com/en/java/ja
 
 :book: Clean Code Summary - [Link](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)
 
+:book: Head First Object-Oriented Analysis and Design: A Brain Friendly Guide to OOA&D - [Link](https://www.amazon.in/Head-First-Object-Oriented-Analysis-Design/dp/8184042213) (This book has some good small examples of OOP design problems)
+
 ### Topics
 
 ##### Generics
 
-:newspaper: Java Generics FAQs by Angelika Langer - [Link](http://www.angelikalanger.com/GenericsFAQ/JavaGenericsFAQ.html)
+:newspaper: Java Generics FAQs by Angelika Langer - [Link](http://www.angelikalanger.com/GenericsFAQ/JavaGenericsFAQ.html) (This is densely theoretical and can be deferred for later)
 
 :book: Effective Java: Chapter 5: Generics
 
@@ -153,5 +160,10 @@ Outline of the Collections Framework - [Link](https://docs.oracle.com/en/java/ja
 
 :video_camera: SOLID Principles - [Link](https://www.youtube.com/playlist?list=PLdR9bD5hyZiiCr5pDs8tYmzHosz3tqIuD)
 
+📹 Object-oriented Design of a Shopping Cart with TDD - [Link](https://www.youtube.com/watch?v=5UmsIoJI9Is)
+
+#### Programming problems
+
+- Functional programming - [Here](./problems/03-lambdas.md)
 
 
