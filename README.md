@@ -79,6 +79,8 @@ Oracle Java Tutorial Trail: Collections - [Link](https://docs.oracle.com/javase/
 
 Outline of the Collections Framework - [Link](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/doc-files/coll-reference.html) Get comfortable reading javadoc for the major classes
 
+Java Collections API Design FAQ - [Link](https://docs.oracle.com/javase/8/docs/technotes/guides/collections/designfaq.html)
+
 #### Test driven development (essential)
 
 :newspaper: Extreme programming - [Link](https://en.wikipedia.org/wiki/Extreme_programming)
