@@ -3,6 +3,8 @@ Curated collection of resources for learning API development in Java
 
 This list assumes a familiarity with basic programming constructs. It is opinionated towards a practical subset of Java language.
 
+Some inspiration - The 25 greatest Java apps ever written [Link](https://blogs.oracle.com/javamagazine/the-top-25-greatest-java-apps-ever-written)
+
 ## Legend
 
 - :video_camera: Video talk
